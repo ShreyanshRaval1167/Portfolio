@@ -249,6 +249,21 @@ section {
   margin-bottom: 30px;
 }
 
+#awesome{
+  color: #0077B5 ;
+  font-size: 40px;
+  position: relative;
+  top: 13px;
+  left: 15px;
+}
+
+#awesome1{
+  color: #0077B5 ;
+  font-size: 40px;
+  position: relative;
+  top: 13px;
+  left: 15px;
+}
 /* Resume Section */
 .resume {
   text-align: center;
